@@ -2,3 +2,6 @@ permalink: /notes/:year/:month/:day/:title
 markdown: kramdown
 gems:
   - jekyll-sitemap
+github:
+  repo: harshilkamdar/harshilkamdar.github.io
+  branch: master
