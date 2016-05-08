@@ -4,4 +4,3 @@ title: PCT 2016 Gear List
 layout: post
 ---
 <script src="https://lighterpack.com/e/itu1k"></script><div id="itu1k"></div>
-<p><a href="https://flic.kr/p/GQFqL9"><img src="https://farm8.staticflickr.com/7064/26805155192_1536ba526d_z.jpg" alt="26805155192_1536ba526d_z.jpg" /></a><a href="https://flic.kr/p/GQFqL9">Untitled</a> by <a href="https://www.flickr.com/photos/133007273@N06/">Harshil Kamdar</a>, on Flickr/133007273@N06/]Harshil Kamdar[/url], on Flickr</p>
