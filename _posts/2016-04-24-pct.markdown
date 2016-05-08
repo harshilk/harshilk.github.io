@@ -5,4 +5,4 @@ layout: post
 ---
 <script src="https://lighterpack.com/e/itu1k"></script><div id="itu1k"></div>
 
-[url=https://flic.kr/p/GQFqL9][img]https://farm8.staticflickr.com/7064/26805155192_eee365fb5b_k.jpg[/img][/url][url=https://flic.kr/p/GQFqL9]Untitled[/url] by [url=https://www.flickr.com/photos/133007273@N06/]Harshil Kamdar[/url], on Flickr
+<p><a href="https://flic.kr/p/GQFqL9"><img src="https://farm8.staticflickr.com/7064/26805155192_eee365fb5b_k.jpg" alt="26805155192_eee365fb5b_k.jpg" /></a><a href="https://flic.kr/p/GQFqL9">Untitled</a> by <a href="https://www.flickr.com/photos/133007273@N06/">Harshil Kamdar</a>, on Flickr</p>
