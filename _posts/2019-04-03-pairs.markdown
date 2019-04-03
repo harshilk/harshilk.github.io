@@ -5,7 +5,7 @@ layout: post
 tags: [stars, pairs]
 ---
 
-The associated files from our paper on co-moving pairs in Gaia DR2 + LAMOST DR4 are [here](https://harshilkamdar.github.io/files/pairs_star1.fits) and [here](https://harshilkamdar.github.io/files/pairs_star2.fits). The two separate files have identical columns and list properties for the individual stars in the pair. 
+The associated catalogs from Kamdar+ (2019) on co-moving pairs in Gaia DR2 + LAMOST DR4 are [here](https://harshilkamdar.github.io/files/pairs_star1.fits) and [here](https://harshilkamdar.github.io/files/pairs_star2.fits). The two separate files have identical columns and list properties for the individual stars in the pair. 
 
 The columns in these files are: 
 
